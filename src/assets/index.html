@@ -1,0 +1,30 @@
+<html>
+	<script type="application/javascript" src="script.js">
+	</script>
+	<title>Welcome page</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<link rel="stylesheet" href="style.css" />
+	<body>
+		<div style="display:flex; flex-direction:column; justify-content:center; align-items:center">
+			<h1>Serving file from the document root</h1>
+			<h4>Hello Welcome to the mHTTP Server 1.0</h4>
+			<h1>Image and audio</h1>
+			<img src = "./test.png" height="200px" width="150px"/>
+			<audio src="sample.mp3" controls></audio>
+			<h1>Form</h1>
+			<form action="/" method="POST" enctype="multipart/form-data">
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="name">
+				<br>
+				<label for="surname">Surname:</label>
+				<input type="text" id="surname" name="surname">
+				<br>
+				<input type="file" name="filename" id="myFile">
+				<br>
+				<input type="submit">
+			</form>
+		</div>
+	</body>
+
+	</title>
+</html>

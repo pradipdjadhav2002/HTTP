@@ -1,0 +1,203 @@
+127.0.0.1 [16/Aug/2022:09:08:27 GMT]  "GET /test.png HTTP/1.1" 406 0 
+127.0.0.1 [16/Aug/2022:09:08:27 GMT]  "GET /favicon.ico HTTP/1.1" 406 0 
+[Tue, 06 Sep 2022 09:54:16 GMT] [Errno 98] Address already in use
+[Tue, 06 Sep 2022 10:00:23 GMT] [Errno 98] Address already in use
+127.0.0.1 [06/Sep/2022:10:06:04 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:06:05 GMT]  "GET / HTTP/1.1" 406 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:12:27 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:12:50 GMT]  "DELETE /deleteme.txt HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:13:51 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:13:51 GMT]  "DELETE /deleteme.txt HTTP/1.1" 404 0 
+Bad Request [400]
+[Tue, 06 Sep 2022 10:19:57 GMT] [Errno 98] Address already in use
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:21:07 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:21:07 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:10:21:28 GMT]  "HEAD /File HTTP/1.1" 404 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:23:33 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:23:33 GMT]  "DELETE /deleteme.txt HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:25:58 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:10 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:28:10 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:28:16 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:16 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:10:28:21 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:28:21 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:39 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:39 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:10:28:53 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:46:46 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:46:46 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:46:46 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:13:46:46 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:47:44 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:48:15 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:48:36 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:13:48:36 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:13:48:43 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:48:43 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:48:51 GMT]  "PUT / HTTP/1.1" 403 0 
+127.0.0.1 [06/Sep/2022:13:48:51 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:04 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:04 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:04 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:07 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:07 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:13:49:12 GMT]  "DELETE /random.html HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:13:49:12 GMT]  "PUT / HTTP/1.1" 403 0 
+Bad Request [400]
+127.0.0.1 [06/Sep/2022:15:38:06 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:38:06 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:15:40:35 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:40:36 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:15:44:15 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:44:15 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:15:44:19 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:44:55 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:45:04 GMT]  "HEAD /File HTTP/1.1" 404 0 
+[Tue, 06 Sep 2022 15:46:02 GMT] [Errno 98] Address already in use
+[Tue, 06 Sep 2022 15:46:35 GMT] [Errno 98] Address already in use
+[Tue, 06 Sep 2022 15:46:48 GMT] [Errno 98] Address already in use
+127.0.0.1 [06/Sep/2022:15:48:54 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:15:50:40 GMT]  "HEAD /File HTTP/1.1" 404 0 
+[Tue, 06 Sep 2022 15:51:23 GMT] [Errno 98] Address already in use
+[Tue, 06 Sep 2022 15:51:29 GMT] [Errno 98] Address already in use
+[Tue, 06 Sep 2022 15:51:43 GMT] [Errno 98] Address already in use
+127.0.0.1 [06/Sep/2022:15:54:03 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:02:10 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:02:24 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:02:24 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:16:03:23 GMT]  "HEAD /File HTTP/1.1" 404 0 
+[Tue, 06 Sep 2022 16:09:50 GMT] [Errno 98] Address already in use
+127.0.0.1 [06/Sep/2022:16:10:41 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:14:00 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:17:08 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:19:11 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:23:28 GMT]  "HEAD /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:25:51 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:25:51 GMT]  "GET / HTTP/1.1" 406 0 
+127.0.0.1 [06/Sep/2022:16:30:15 GMT]  "GET /File HTTP/1.1" 404 0 
+127.0.0.1 [06/Sep/2022:16:30:15 GMT]  "GET / HTTP/1.1" 406 0 
