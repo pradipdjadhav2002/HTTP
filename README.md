@@ -186,8 +186,7 @@ A log compressor script is also included with the log files that can be run to c
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@AnupNair08](https://github.com/AnupNair08)
-- [@andipro123](https://github.com/andipro123)
+- [@pradipdjadhav2002](https://github.com/pradipdjadhav2002)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
